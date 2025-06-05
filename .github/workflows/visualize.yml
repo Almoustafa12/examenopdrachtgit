@@ -16,5 +16,5 @@
   uses: actions/download-artifact@v2
   with:
     name: "my-diagram"
-    path: "downloads"
+    path: "."
 should_push: false
